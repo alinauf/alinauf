@@ -6,17 +6,17 @@
 - 📫 You can reach me at [nauf@hck.dev](mailto:hck.dev)
 
 ###  Skillset
-- **🔨 Backend**
-  -  PHP
-  -  Laravel
-  -  NodeJs
-  -  Python
-  -  Go
+**🔨 Backend**
+ -  PHP
+ -  Laravel
+ -  NodeJs
+ -  Python
+ -  Go
 
-- **🎨 Frontend**
-  -  Typescript
-  -  React
-  -  Vue.js
+**🎨 Frontend**
+ -  Typescript
+ -  React
+ -  Vue.js
 
-- **📱 Mobile**
-  -  React Native
+**📱 Mobile**
+ -  React Native
