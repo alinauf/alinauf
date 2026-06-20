@@ -1,9 +1,6 @@
 ## Hi, I'm Nauf
 
-
-- 🖥️  I've been coding for over 9 years.
-- 🦀 I’m learning Rust at the moment
-- 📫 You can reach me at [nauf@hck.dev](mailto:hck.dev)
+- 📫 [nauf@hck.dev](mailto:hck.dev)
 
 ###  Skillset
 **🔨 Backend**
